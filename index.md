@@ -6,3 +6,4 @@
 * Larry Ploter y el Malware de Fuego
 * Larry Ploter y la Oder de Unix
 * Larry Ploter y el Misterio del Hacker
+* Larry Ploter y los Status de la Muerte
