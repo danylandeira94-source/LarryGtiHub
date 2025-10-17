@@ -2,4 +2,5 @@
 
 El código de **Larry** cada vez es más peligroso.
 **Lord Bolldemort* y sus *followers* cada vez tienen más *retweets*.
-**La Orden de Unix** quiere enfrentarse a ellos.
+<<<<<<< HEAD
+**La Orden de Unix** quiere enfrentarse a ellos y luchara contra ellos.
